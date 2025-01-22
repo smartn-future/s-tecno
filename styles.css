@@ -476,6 +476,7 @@ header nav a:hover {
     flex-direction: column;
     justify-content: center;
     height: 100vh;
+    background-color: #000;
     align-items: center;
     text-align: center;
    
