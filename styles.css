@@ -578,7 +578,7 @@ header nav a:hover {
   transform-style: preserve-3d;
  /*    animation: rotate 10s infinite linear;  */
  /*    animation: rotate 20s infinite linear;  */
-  animation: rotate 100s infinite linear;
+  animation: rotate 1s infinite linear;
 }
 
 .gallery img {
